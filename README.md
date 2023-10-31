@@ -36,6 +36,9 @@ To get started with your Gemjar-based automation project using this template, fo
 4. Install the necessary dependencies.
 5. Start writing your feature files and automation tests.
 
+************If user wants to add more keys to the gemjar-config.json file, then follow this link which is given below**************
+https://dev.azure.com/GEM-QualityEngineering/Help-GemEcosystem/_wiki/wikis/Help-GemEcosystem.wiki/60/GemJar-Config-file-keys
+https://dev.azure.com/GEM-QualityEngineering/Help-GemEcosystem/_wiki/wikis/Help-GemEcosystem.wiki/209/gemjar-config.json
 
 
 Feel free to contribute to this template by creating pull requests or reporting issues if you encounter any problems.
