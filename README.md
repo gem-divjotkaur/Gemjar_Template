@@ -41,9 +41,6 @@ https://dev.azure.com/GEM-QualityEngineering/Help-GemEcosystem/_wiki/wikis/Help-
 
 https://dev.azure.com/GEM-QualityEngineering/Help-GemEcosystem/_wiki/wikis/Help-GemEcosystem.wiki/209/gemjar-config.json
 
-https://dev.azure.com/GEM-QualityEngineering/Help-GemEcosystem/_wiki/wikis/Help-GemEcosystem.wiki/60/GemJar-Config-file-keys
-https://dev.azure.com/GEM-QualityEngineering/Help-GemEcosystem/_wiki/wikis/Help-GemEcosystem.wiki/209/gemjar-config.json
-
 
 Feel free to contribute to this template by creating pull requests or reporting issues if you encounter any problems.
 
